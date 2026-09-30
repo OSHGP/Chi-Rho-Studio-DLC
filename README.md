@@ -10,9 +10,9 @@ Media packages are manual downloads and do not need catalog entries.
 
 | Package | Version | Download |
 | --- | --- | --- |
-| Announcements en-US | 1.0.2 | [Announcements ZIP](https://github.com/OSHGP/Chi-Rho-Studio-DLC/raw/main/packages/media/announcements/Announcements-en-US-v1.zip) |
-| Prayer List en-US | 1.0.1 | [Prayer List ZIP](https://github.com/OSHGP/Chi-Rho-Studio-DLC/raw/main/packages/media/prayer-list/Prayer-List-en-US-v1.zip) |
-| Tithes & Offerings en-US | 1.0.1 | [Tithes & Offerings ZIP](https://github.com/OSHGP/Chi-Rho-Studio-DLC/raw/main/packages/media/tithes-offerings/Tithes-Offerings-en-US-v1.zip) |
+| Announcements en-US | 1.0.3 | [Announcements ZIP](https://github.com/OSHGP/Chi-Rho-Studio-DLC/raw/main/packages/media/announcements/Announcements-en-US-v1.zip) |
+| Prayer List en-US | 1.0.2 | [Prayer List ZIP](https://github.com/OSHGP/Chi-Rho-Studio-DLC/raw/main/packages/media/prayer-list/Prayer-List-en-US-v1.zip) |
+| Tithes & Offerings en-US | 1.0.2 | [Tithes & Offerings ZIP](https://github.com/OSHGP/Chi-Rho-Studio-DLC/raw/main/packages/media/tithes-offerings/Tithes-Offerings-en-US-v1.zip) |
 
 Select a package link to download its ZIP directly. If GitHub shows the file
 page instead, choose **⋯ → Download** (or use GitHub's **Ctrl+Shift+S** shortcut
