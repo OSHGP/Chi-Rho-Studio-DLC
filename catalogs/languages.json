@@ -1,0 +1,24 @@
+{
+  "format_version": 1,
+  "catalog_name": "Chi Rho Studio Application Languages",
+  "generated_at": "2026-10-01T09:49:04-05:00",
+  "updated": "2026-10-01T09:49:04-05:00",
+  "entries": [
+    {
+      "locale": "ru-RU",
+      "name": "русский",
+      "native_name": "русский",
+      "english_name": "Russian",
+      "region": "Russia",
+      "version": "1.0.0",
+      "app_min_version": "0.15.1",
+      "translation_format_version": 3,
+      "translator": "",
+      "completion": 100,
+      "path": "../packages/languages/ru-RU.json",
+      "sha256": "a14ded3fd4cbb261062a6d1323dac62ab1dcb8fb1d85cf0e4f8a56649ba0708b",
+      "file_size": 175122,
+      "updated": "2026-09-30T22:05:41-05:00"
+    }
+  ]
+}
