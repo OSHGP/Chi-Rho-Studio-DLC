@@ -1,17 +1,17 @@
 {
   "format_version": 1,
   "name": "Chi Rho Studio Catalog Subscription",
-  "updated": "2026-10-01T21:22:37-05:00",
+  "updated": "2026-10-01T22:47:20-05:00",
   "catalogs": [
     {
       "id": "languages",
       "name": "Application Languages",
       "type": "languages",
       "path": "languages.json",
-      "version": 5,
-      "updated": "2026-10-01T21:22:37-05:00",
+      "version": 6,
+      "updated": "2026-10-01T22:47:20-05:00",
       "file_size": 715,
-      "sha256": "f15a98f880e7047ec8d165dc0ab0733f657e5166c26720cacbc9c200a7a5432c"
+      "sha256": "c9d607948bfd1e58b1d57a16846652d71fa0fb44ca6c25ecdefa6c55adcb136c"
     },
     {
       "id": "bibles",

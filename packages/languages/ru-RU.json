@@ -311,6 +311,7 @@
     "direction_down": "Вниз"
   },
   "settings": {
+    "catalog_reset_default": "Сбросить по умолчанию",
     "restore_defaults": "Восстановить по умолчанию",
     "restore_defaults_title": "Восстановить по умолчанию",
     "restore_defaults_message": "Восстановить настройки по умолчанию для раздела «{section}»?",
