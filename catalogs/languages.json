@@ -1,8 +1,8 @@
 {
   "format_version": 1,
   "catalog_name": "Chi Rho Studio Application Languages",
-  "generated_at": "2026-10-01T09:49:04-05:00",
-  "updated": "2026-10-01T09:49:04-05:00",
+  "generated_at": "2026-10-01T21:22:37-05:00",
+  "updated": "2026-10-01T21:22:37-05:00",
   "entries": [
     {
       "locale": "ru-RU",
@@ -16,9 +16,9 @@
       "translator": "",
       "completion": 100,
       "path": "../packages/languages/ru-RU.json",
-      "sha256": "a14ded3fd4cbb261062a6d1323dac62ab1dcb8fb1d85cf0e4f8a56649ba0708b",
-      "file_size": 175122,
-      "updated": "2026-09-30T22:05:41-05:00"
+      "sha256": "ea9da854b7e7660db5ad3d5b24cf137782760e68ac3d95c404949727f9b911d1",
+      "file_size": 175649,
+      "updated": "2026-10-01T20:45:29-05:00"
     }
   ]
 }

@@ -1,27 +1,27 @@
 {
   "format_version": 1,
   "name": "Chi Rho Studio Catalog Subscription",
-  "updated": "2026-10-01T11:25:17-05:00",
+  "updated": "2026-10-01T21:22:37-05:00",
   "catalogs": [
     {
       "id": "languages",
       "name": "Application Languages",
       "type": "languages",
       "path": "languages.json",
-      "version": 1,
-      "updated": "2026-10-01T09:52:52-05:00",
+      "version": 5,
+      "updated": "2026-10-01T21:22:37-05:00",
       "file_size": 715,
-      "sha256": "bacccba7507c8a499d25fa11f7c566e9137e819e7aed2fc9b16468b36c299410"
+      "sha256": "f15a98f880e7047ec8d165dc0ab0733f657e5166c26720cacbc9c200a7a5432c"
     },
     {
       "id": "bibles",
       "name": "Bible Translations",
       "type": "bibles",
       "path": "bible-catalog.json",
-      "version": 1,
-      "updated": "2026-10-01T11:25:17-05:00",
-      "file_size": 35619,
-      "sha256": "8898225ef3b9dc537d50bcfc0429b23c751eaeb153ae45993a0e17c998ebad8b"
+      "version": 5,
+      "updated": "2026-10-01T21:22:37-05:00",
+      "file_size": 30029,
+      "sha256": "6a59547f2390b303f3536945efa6c461ed1697c70e85ead0c1b41d559b62a12a"
     },
     {
       "id": "hymns",
