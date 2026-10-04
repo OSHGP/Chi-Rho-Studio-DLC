@@ -25,3 +25,9 @@ The [SHA-256 checksums](SHA256SUMS) cover these exact ZIPs. After cloning this
 repository, run `sha256sum -c SHA256SUMS` from its root to verify all three.
 Checksums must be regenerated when a ZIP changes; the release downloads must
 match the same bytes. These packages do not update automatically after import.
+
+## Image collections
+
+| Package | Version | Download |
+| --- | --- | --- |
+| Demo Hill Collection | 1.0.0 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/images/oshgp.images.2848e74c29f047d8/oshgp.images.2848e74c29f047d8-v1.zip) |
