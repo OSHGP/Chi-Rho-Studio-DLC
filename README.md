@@ -32,3 +32,9 @@ match the same bytes. These packages do not update automatically after import.
 | --- | --- | --- |
 | Demo Hill Collection | 1.0.1 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/images/oshgp.images.2848e74c29f047d8/oshgp.images.2848e74c29f047d8-v1.zip) |
 | Demo Frame Collection | 1.0.0 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/images/oshgp.images.9be4ba02332d4146/oshgp.images.9be4ba02332d4146-v1.zip) |
+
+## Background packages
+
+| Package | Version | Download |
+| --- | --- | --- |
+| Quiet Cloud Tunnel | 0.1.2 | [Download Background](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/backgrounds/oshgp.cloud_tunnel/oshgp.cloud_tunnel-v0.chirho-background) |
