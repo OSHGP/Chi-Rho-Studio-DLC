@@ -30,5 +30,5 @@ match the same bytes. These packages do not update automatically after import.
 
 | Package | Version | Download |
 | --- | --- | --- |
-| Demo Hill Collection | 1.0.0 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/images/oshgp.images.2848e74c29f047d8/oshgp.images.2848e74c29f047d8-v1.zip) |
+| Demo Hill Collection | 1.0.1 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/images/oshgp.images.2848e74c29f047d8/oshgp.images.2848e74c29f047d8-v1.zip) |
 | Demo Frame Collection | 1.0.0 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/images/oshgp.images.9be4ba02332d4146/oshgp.images.9be4ba02332d4146-v1.zip) |
