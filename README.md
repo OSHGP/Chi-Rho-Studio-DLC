@@ -41,5 +41,5 @@ Install in CRS: Settings > Content Libraries > Backgrounds & Cards > Install Pac
 
 | Package | Version | Download | SHA-256 Checksum |
 | --- | --- | --- | --- |
-| Quiet Cloud Tunnel -- Canvas | 1.0.0 | [Download Background](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/backgrounds/oshgp.cloud_tunnel.canvas/oshgp.cloud_tunnel.canvas-v1.chirho-background) | 716995204a9f7e41eadd32e82f88c226f98d344868b146be10cf835ca5422995 |
+| Quiet Cloud Tunnel | 1.0.1 | [Download Background](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/backgrounds/oshgp.cloud_tunnel.canvas/oshgp.cloud_tunnel.canvas-v1.chirho-background) | 39007400c3da3c0dae4c050d35de4263fb394783b8b352dbf48a2fd58bf5e32f |
 | Gentle Rain | 0.2.1 | [Download Background](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/backgrounds_and_cards/packages/oshgp.gentle_rain_test/oshgp.gentle_rain_test-v0.chirho-background) | c61bcede7affc7bf726abd3b0ca4eca78c94c188e3d1747615ba2a759225fe77 |
