@@ -35,7 +35,6 @@ match the same bytes. These packages do not update automatically after import.
 | --- | --- | --- | --- |
 | Demo Hill Collection | 1.0.1 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/images/oshgp.images.2848e74c29f047d8/oshgp.images.2848e74c29f047d8-v1.zip) | 6ba368d8beb819bf460f727f7ddf86eb36fe51f7e0912cbeddad6b135e4ebe4b |
 | Demo Frame Collection | 1.0.1 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/images/oshgp.images.9be4ba02332d4146/oshgp.images.9be4ba02332d4146-v1.zip) | 11b1228f32ae69b15e1d0a5e7438e21a2c0f05525c4dbd220e6e1f04a11288ee |
-| Background & Card | 1.0.0 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/images/oshgp.images.7e43350e4e774228/oshgp.images.7e43350e4e774228-v1.zip) | 48c2f998a350045e404e72a143b6be811e4c975a693e384af5bb6bd5ce9e3a10 |
 
 ## Background packages
 
@@ -46,3 +45,4 @@ Install in CRS: Settings > Content Libraries > Backgrounds & Cards > Install Pac
 | --- | --- | --- | --- |
 | Quiet Cloud Tunnel | 1.0.1 | [Download Background](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/backgrounds/oshgp.cloud_tunnel.canvas/oshgp.cloud_tunnel.canvas-v1.chirho-background) | 39007400c3da3c0dae4c050d35de4263fb394783b8b352dbf48a2fd58bf5e32f |
 | Gentle Rain | 0.2.1 | [Download Background](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/backgrounds_and_cards/packages/oshgp.gentle_rain_test/oshgp.gentle_rain_test-v0.chirho-background) | c61bcede7affc7bf726abd3b0ca4eca78c94c188e3d1747615ba2a759225fe77 |
+| Single Color | 1.0.0 | [Download Background](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/backgrounds_and_cards/packages/oshgp.single_color/oshgp.single_color-v1.chirho-background) | b103f1b260fc484b5c6adf1d5f42dd465b718f34c12ce94b098627738ee331cc |
