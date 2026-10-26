@@ -13,7 +13,7 @@ Install in CRS: Settings > Content Libraries > Media > Import Media. Select the 
 
 | Package | Version | Download | SHA-256 Checksum |
 | --- | --- | --- | --- |
-| Announcements-en-US | 1.0.34 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/media/announcements/Announcements-en-US-v1.zip) | afcaab375183da5dec8d752ba66bebae00cf11c490d06ffb1fac5eab683804ba |
+| Announcements-en-US | 1.0.35 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/media/announcements/Announcements-en-US-v1.zip) | 82a4a3f1c0095c5cc3f4b20c3bbda8ba05a5c439e7d74970b8bfa919d7d7f3d9 |
 | Prayer-List-en-US | 1.0.7 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/media/prayer-list/Prayer-List-en-US-v1.zip) | 3edd52e02bf0eb371179871f1768afffef1f58900a5fb168f546c31e3e443193 |
 | Tithes-Offerings-en-US | 1.0.6 | [Download ZIP](https://raw.githubusercontent.com/OSHGP/Chi-Rho-Studio-DLC/main/packages/media/tithes-offerings/Tithes-Offerings-en-US-v1.zip) | 3ac49436df129c524d977307904745253d445d5d9cab1cfb9ea384cfbc436dfd |
 
