@@ -6,6 +6,20 @@ separate from the application and can be installed from ZIP files.
 The catalog admin app generates catalog JSON for supported automatic downloads.
 Media packages are manual downloads and do not need catalog entries.
 
+## Automatic Bible catalog publication
+
+The catalog contains reviewed metadata and direct source links, not bundled
+Bible translations. Before publishing each new or changed entry, confirm it
+against the current eBible translation index and the translation's full rights
+page. Require human approval of U.S. public-domain eligibility, rights status,
+license, attribution, rights URL and any regional note; resolve conflicting
+statements before publication. The source CSV's download and redistribution
+flags do not grant approval. Review use, display, streaming, recording and
+distribution outside the U.S. separately. Keep hymn content and its rights
+review separate: churches supply their own hymns and must obtain the
+permissions needed for their uses. Catalog publication has its own rights
+gate; it does not wait for a Chi Rho Studio application binary release.
+
 ## Media packages
 
 Install in CRS: Settings > Content Libraries > Media > Import Media. Select the ZIP without extracting it.
